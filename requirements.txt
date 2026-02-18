@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+playwright==1.40.0
+2captcha-python==1.2.1
+python-dotenv==1.0.0
+
+# For Windows compatibility - use pre-built wheels
+greenlet==3.0.1 ; platform_system == "Windows"

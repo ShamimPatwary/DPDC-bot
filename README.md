@@ -20,7 +20,7 @@ A personal Telegram bot to check my DPDC electricity meter balances without manu
 - Python 3.9+
 - A Telegram bot token (from [@BotFather](https://t.me/BotFather))
 - Your DPDC Customer Number(s)
-- *(Optional)* A [2Captcha](https://2captcha.com) account with active credits for automated CAPTCHA solving
+- [2Captcha](https://2captcha.com) account with active credits for automated CAPTCHA solving
 
 ---
 
